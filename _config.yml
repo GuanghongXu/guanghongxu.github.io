@@ -11,7 +11,8 @@ title                    : "GUANGHONG XU"
 title_separator          : "-"
 name                     : &name "GUANGHONG XU"
 description              : &description "personal description"
-url                      :
+#url                      : https://dajeong265.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GuanghongXu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -75,17 +76,17 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-96220869-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Guanghong Xu"
-  avatar           : "guanghong.jpg"
+  name             : "GUANGHONG XU"
+  avatar           : "xgh.jpg"
   bio              : "Ph.D. student in Economics at the University of California, Santa Cruz"
   location         : "Santa Cruz, California"
   employer         :
-  pubmed           : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kMn_UlQAAAAJ&hl=zh-CN"
   email            : "gxu10@ucsc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : #"GuanghongXu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
