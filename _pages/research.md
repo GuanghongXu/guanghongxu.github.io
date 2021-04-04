@@ -16,25 +16,25 @@ author_profile: true
 
 <h2> Projects in the field </h2>
 
-- "The Value of Value Chains: An Experiment Linking Farmers’ Coop- eratives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](http://www.isb.edu/faculty/shilpa_aggarwal/), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+- "The Value of Value Chains: An Experiment Linking Farmers’ Coop- eratives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+	<details>
+	  <summary>Abstract</summary>
+	  
+	One way that farmers can improve their income and livelihoods is to transition from subsistence farming to market-driven, commercial agriculture in which output is sold into value chains. However, smallholder farmers typically do not sell their output to buyers in value chains, and one of the reasons is because their output often does not meet the required quality standards. We conduct a randomized controlled trial with 200 smallholder farmer cooperatives to evaluate the effects of providing farmers with access to maize processing services that could improve maize quality on their input decisions.
+	</details>
+
+	
+
+- "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 	<details>
 	  <summary>Abstract</summary>
 	  
 	</details>
 
-	[[ATAI]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/)
-
-- "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](http://www.isb.edu/faculty/shilpa_aggarwal/), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
-	<details>
-	  <summary>Abstract</summary>
-	  
-	</details>
-
-	[[ATAI]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
 
 
 
-- "Demand and Liquidity Coordination to Foster the Adoption for Live- stock Vaccinations: An Experiment with Small-Holder Dairy Coopera- tives in Kenya" (with [Shilpa Aggarwal](http://www.isb.edu/faculty/shilpa_aggarwal/), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Elizaphan Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)
+- "Demand and Liquidity Coordination to Foster the Adoption for Live- stock Vaccinations: An Experiment with Small-Holder Dairy Coopera- tives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Elizaphan Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)
 	<details>
 	  <summary>Abstract</summary>
 	  
