@@ -12,9 +12,11 @@ redirect_from:
 
 
 
-| Welcome to my website!
 
-I am an enthusiastic development economist and a third year Ph.D. student at [the Department of Economics, University of California, Santa Cruz(UCSC)](https://economics.ucsc.edu/). I work in Development Economics and Applied Econometrics, with ongoing field experiments in Rwanda and Kenya. | ![tz4](/images/tz2.jpeg)\\![tz2](/images/tz4.jpeg) |
+
+Welcome to my website! | ![tz2](/images/tz4.jpeg) 
+
+I am an enthusiastic development economist and a third year Ph.D. student at [the Department of Economics](https://economics.ucsc.edu/), [University of California, Santa Cruz(UCSC)](https://www.ucsc.edu/). I work in Development Economics and Applied Econometrics, with ongoing field experiments in Rwanda and Kenya. | ![tz4](/images/tz2.jpeg)
 
 
 
