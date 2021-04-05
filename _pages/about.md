@@ -20,7 +20,7 @@ I am an enthusiastic development economist and a third year Ph.D. student at the
 
 * Field of interest: Development Economics, Applied Econometrics
 
-* [Curriculum vitae](/files/CV_GuanghongXu_20210403.pdf)
+* [Curriculum vitae](/files/CV_GuanghongXu.pdf)
 
 
 ![tz2](/images/tz2.jpeg) 
