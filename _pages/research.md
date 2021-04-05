@@ -16,7 +16,7 @@ author_profile: true
 
 <h2> Projects in the field </h2>
 
-- "The Value of Value Chains: An Experiment Linking Farmers’ Coop- eratives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 	<details>
 	  <summary>Abstract</summary>
 	  
@@ -34,7 +34,7 @@ author_profile: true
 
 
 
-- "Demand and Liquidity Coordination to Foster the Adoption for Live- stock Vaccinations: An Experiment with Small-Holder Dairy Coopera- tives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Elizaphan Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)
+- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Elizaphan Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)
 	<details>
 	  <summary>Abstract</summary>
 	  
