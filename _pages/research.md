@@ -6,7 +6,7 @@ author_profile: true
 
 <h2> Working papers </h2>
 
-- ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_permlink.pdf) (with Rolly Kapoor, Haedong Rho, Kinpritma Sangha, Bhavyaa Sharma, and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/).)
+- ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_permlink.pdf) (with Rolly Kapoor, Haedong Rho, Kinpritma Sangha, Bhavyaa Sharma, and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/))
 	<details>
 	  <summary>Abstract</summary>
 	  
@@ -52,7 +52,7 @@ author_profile: true
 	<details>
 	  <summary>Abstract</summary>
 	  
-	  Rural households tend to be poor, and thus in greater need of aid. However, aid programs likely make tradeoffs regarding how much aid to give and where to send it based on needs as well as operating costs. As delivering aid to those most in-need is likely the more costly, there are opportunities for misallocation in the provision of aid. We study the spatial distribution of aid and investigate whether there is spatial misallocation in aid provision.
+	  Rural households tend to be poor, and thus in greater need of aid. However, aid programs likely make trade-offs regarding how much aid to give and where to send it based on needs as well as operating costs. As delivering aid to those most in-need is likely the more costly, there are opportunities for misallocation in the provision of aid. We study the spatial distribution of aid and investigate whether there is spatial misallocation in aid provision.
 
 	</details>
 
