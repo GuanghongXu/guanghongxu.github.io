@@ -48,7 +48,7 @@ author_profile: true
 	[Ongoing Project in the Field]
 
 
-- "Geography of Aid" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+- "Geography of Aid in Africa" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 	<details>
 	  <summary>Abstract</summary>
 	  
