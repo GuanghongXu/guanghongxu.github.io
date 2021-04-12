@@ -23,7 +23,7 @@ author_profile: true
 	  <summary>Abstract</summary>
 	  
 	One way that farmers can improve their income and livelihoods is to transition from subsistence farming to market-driven, commercial agriculture in which output is sold into value chains. However, smallholder farmers typically do not sell their output to buyers in value chains, and one of the reasons is because their output often does not meet the required quality standards. We conduct a randomized controlled trial with 360 smallholder farmer cooperatives to evaluate the effects of providing farmers with access to maize processing services that could improve maize quality on their input decisions.
-	</details>\\
+	</details>
 
 	[[J-PAL Project Overview]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
 
