@@ -17,7 +17,7 @@ author_profile: true
 
 <h2> Works in progress </h2>
 
-- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Fieldwork Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
