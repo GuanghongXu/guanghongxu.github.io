@@ -17,17 +17,17 @@ author_profile: true
 
 <h2> Works in progress </h2>
 
-- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Fieldwork Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
 	  
 	One way that farmers can improve their income and livelihoods is to transition from subsistence farming to market-driven, commercial agriculture in which output is sold into value chains. However, smallholder farmers typically do not sell their output to buyers in value chains, and one of the reasons is because their output often does not meet the required quality standards. We conduct a randomized controlled trial with 360 smallholder farmer cooperatives to evaluate the effects of providing farmers with access to maize processing services that could improve maize quality on their input decisions.
-	</details>
+	</details>\\
 
 	[[J-PAL Project Overview]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
 
-- "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
+- "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Fieldwork Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
@@ -37,7 +37,7 @@ author_profile: true
 
 
 
-- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Elizaphan Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)
+- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Elizaphan Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
 **_Fieldwork Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
