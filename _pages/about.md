@@ -23,5 +23,4 @@ I am an enthusiastic development economist and a third year Ph.D. student at the
 * [Curriculum vitae](/files/CV_GuanghongXu.pdf)
 
 
-![tz2](/images/tz2.jpeg) 
-
+{% include image.html url="/images/tz2.jpeg" description="Picture took from Matanzi village, Mkuranga, Tanzania" %}
