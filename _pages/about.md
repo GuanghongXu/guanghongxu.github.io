@@ -21,6 +21,7 @@ I am an enthusiastic development economist and a third year Ph.D. student at the
 * Field of interest: 
 	* Development Economics
 		* Market Access
+		* Risk Coping
 		* Technology Adoption
 		* Financial Inclusion
 	* Applied Econometrics
