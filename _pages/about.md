@@ -23,7 +23,7 @@ I am an enthusiastic development economist and a third year Ph.D. student at the
 		* Financial Inclusion
 		* Market Access
 		* Risk Coping
-		* Technology Adoption.
+		* Technology Adoption
 	* Applied Econometrics
 
 * [Curriculum vitae](/files/CV_GuanghongXu.pdf)
