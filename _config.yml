@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GUANGHONG XU"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "GUANGHONG XU"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "GUANGHONG XU"
+  name             : "Guanghong Xu"
   avatar           : "xgh.jpg"
   bio              : "Ph.D. student in Economics at the University of California, Santa Cruz"
   location         : "Santa Cruz, California"
