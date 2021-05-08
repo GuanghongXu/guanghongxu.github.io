@@ -39,7 +39,7 @@ author_profile: true
 
 
 
-- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Elizaphan Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
+- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
 **_Fieldwork Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
