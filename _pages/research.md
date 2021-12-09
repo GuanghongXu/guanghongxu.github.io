@@ -6,12 +6,13 @@ author_profile: true
 
 <h2> Working papers </h2>
 
-- ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_permlink.pdf) (with Rolly Kapoor, Haedong Rho, Kinpritma Sangha, Bhavyaa Sharma, and [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/))\\
-**Conditionally Accepted, _Journal of Health Economics_**
+- ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_permlink.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), Bhavyaa Sharma, Rolly Kapoor, Haedong Rho, and Kinpritma Sangha)\\
+**Forthcoming, _Journal of Health Economics_**
 	<details>
 	  <summary>Abstract</summary>
 	  
-	  We measure the benefit to society created by preventing COVID-19 deaths through a marginal increase in early social distancing. We exploit county-level rainfall on the last weekend before statewide lockdown in the early phase of the pandemic. After controlling for historical rainfall, temperature, and state fixed-effects, current rainfall is a plausibly exogenous instrument for social distancing. A one percent decrease in the population leaving home on the weekend before lockdown creates an average of 132 dollars of benefit per county resident within 2 weeks. The impacts of earlier distancing compound over time and mainly arise from lowering the risk of a major outbreak, yielding large but unevenly distributed social benefit.
+	 We measure the benefit to society created by preventing COVID-19 deaths through a marginal increase in early social distancing. We exploit county-level rainfall on the last weekend before statewide lockdown in the early phase of the pandemic. After controlling for historical rainfall, temperature, and state fixed-effects, current rainfall is a plausibly exogenous instrument for social distancing. A one percent decrease in the population leaving home on the weekend before lockdown creates an average of 132 dollars of benefit per county resident within 2 weeks. The impacts of earlier distancing compound over time and mainly arise from lowering the risk of a major outbreak, yielding large but unevenly distributed social benefit.
+
 	</details>
 
 

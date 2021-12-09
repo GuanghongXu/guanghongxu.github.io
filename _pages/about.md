@@ -22,7 +22,7 @@ I am an enthusiastic development economist and an Economics Ph.D. candidate at t
 	* Development Economics: 
 		* Financial Inclusion
 		* Market Access
-		* Risk Coping
+		* Quality Upgrading
 		* Technology Adoption
 	* Applied Econometrics
 
