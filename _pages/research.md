@@ -18,6 +18,16 @@ author_profile: true
 
 <h2> Works in progress </h2>
 
+- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
+**_Fieldwork Ongoing_**
+Presented: [2021 SPIA Webinar Series]
+	<details>
+	  <summary>Abstract</summary>
+	  
+	  East Coast Fever (ECF) is a deadly cattle disease transmitted by ticks. While an effective ECF vaccine exists, take-up is low in many areas. There are two main reasons for the low adoption: First, technically, the vaccine must be administered to a large number of animals at once (the minimum package size has enough dosage for 40 cattle), and so farmers with only a few cattle cannot access the vaccine individually. Second, the vaccine is expensive for small-scale farmers, costing about $320 for a 40-dose package (straw). We conduct a randomized controlled trial with 80 dairy cooperatives in Kenya to evaluate the effect of a demand aggregation intervention (in which farmers are encouraged to vaccinate together) cross-cut with a “checkoff system” intervention (in which a percentage of milk sales is set aside at milk cooperatives to be allocated for vaccine purchase) on the adoption of ECF vaccine.
+	</details>
+
+
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Fieldwork Ongoing_**
 	<details>
@@ -38,16 +48,6 @@ author_profile: true
 	  Like much of Sub-Saharan Africa, a contributing factor to low agricultural productivity in Rwanda is the low usage of modern inputs like chemical fertilizer and improved seeds. A primary cause of low input usage is that low and variable prices for crop sales at harvest-time may make farmers uncertain about the profitability of investing in improved inputs during the planting and growing seasons. We randomly offer a subset of mid-sized cooperatives a guarantee of the price they will receive at harvest time. With the government-led digital SNS database records of input usage in Rwanda, we quantify the effect of higher anticipated output prices at the end of the season on input utilization during the season and in subsequent seasons.
 	</details>
 
-
-
-- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), Julius Githinji, [Susan Godlonton](https://sites.williams.edu/sg5/), Kevin Maina, James Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
-**_Fieldwork Ongoing_**
-	<details>
-	  <summary>Abstract</summary>
-	  
-	  East Coast Fever (ECF) is a deadly cattle disease transmitted by ticks. While an effective ECF vaccine exists, take-up is low in many areas. There are two main reasons for the low adoption: First, technically, the vaccine must be administered to a large number of animals at once (the minimum package size has enough dosage for 40 cattle), and so farmers with only a few cattle cannot access the vaccine individually. Second, the vaccine is expensive for small-scale farmers, costing about $320 for a 40-dose package (straw). We conduct a randomized controlled trial with 80 dairy cooperatives in Kenya to evaluate the effect of a demand aggregation intervention (in which farmers are encouraged to vaccinate together) cross-cut with a “checkoff system” intervention (in which a percentage of milk sales is set aside at milk cooperatives to be allocated for vaccine purchase) on the adoption of ECF vaccine.
-	</details>
-	
 
 - "Geography of Aid in Africa" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 	<details>
