@@ -18,6 +18,15 @@ author_profile: true
 <h2> Work in progress </h2>
 
 
+- "Creating a Market for High-Quality Cassava Cuttings: The Role of Quality Certification and Demand Stimulation" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+**_Fieldwork Ongoing_**
+	<details>
+	  <summary>Abstract</summary>
+	  
+	Many farmers in rural areas of developing countries do not use high quality inputs, either because sellers of quality inputs are located far away or because the quality of inputs cannot be ascertained easily. This not only keeps farmers' income low in the short run, but also has deleterious long-term consequences by preventing the development of value chains which requires reliable access to high quality farm output. In this study, we propose a pilot to establish a market for high-quality cassava planting materials among cooperatives in Rwanda. Working with IITA and RAB, we will randomly provide certification to cassava cooperatives, and supplement this with a demand stimulation intervention in which we will provide a subset of local farmers with information on crop diseases and how they can procure quality cassava planting material from certified cooperatives. We will measure impacts on crop diseases, profits and yields of cooperatives, as well as cassava planting and sourcing decisions of local farmers.
+	</details>
+
+
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Fieldwork Ongoing_**
 	<details>
