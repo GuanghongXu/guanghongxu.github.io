@@ -26,7 +26,7 @@ I am an enthusiastic development economist and an Economics Ph.D. candidate at t
 		* Technology Adoption
 	* Applied Econometrics
 
-* [Curriculum vitae](/files/CV_GuanghongXu.pdf)
+* [Curriculum Vitae](/files/CV_GuanghongXu.pdf)
 
 
 {% include image.html url="/images/tz2.jpeg" description="Matanzi village, Mkuranga, Tanzania" %}
