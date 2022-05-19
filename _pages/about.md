@@ -22,10 +22,10 @@ I am an enthusiastic development economist and an Economics Ph.D. candidate at t
 
 * Field of interest: 
 	* Development Economics: 
-		* Financial Inclusion
-		* Market Access
 		* Quality Upgrading
+		* Market Access
 		* Technology Adoption
+		* Financial Inclusion
 	* Applied Econometrics
 
 * [Curriculum Vitae](/files/CV_GuanghongXu.pdf)
