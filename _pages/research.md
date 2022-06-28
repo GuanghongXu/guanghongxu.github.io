@@ -18,6 +18,13 @@ author_profile: true
 
 <h2> Work in progress </h2>
 
+- “Kenya‘s Dairy Value Chain Upgrading”\\
+**_Fieldwork Ongoing_**
+
+
+- “Market Structure of Kenya’s Dairy Industry” (with Martin Nandelenga and Sophie Nottmeyer)\\
+**_Fieldwork Ongoing_**
+
 
 - "Creating a Market for High-Quality Cassava Cuttings: The Role of Quality Certification and Demand Stimulation" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Fieldwork Ongoing_**
