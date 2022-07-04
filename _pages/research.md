@@ -19,17 +19,18 @@ author_profile: true
 <h2> Work in progress </h2>
 
 - “Kenya’s Dairy Value Chain Upgrading”\\
-**_Fieldwork Ongoing_**
+**_Scoping Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
 
 	</div>	
 	</details>
+
 
 
 - “Market Structure of Kenya’s Dairy Industry” (with Martin Nandelenga and Sophie Nottmeyer)\\
-**_Fieldwork Ongoing_**
+**_Scoping Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
@@ -38,8 +39,22 @@ author_profile: true
 	</details>
 
 
+
+- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
+**_Intervention Ongoing_**
+	<details>
+	  <summary>Abstract</summary>
+	<div align="justify">		  
+	  East Coast Fever (ECF) is a deadly cattle disease transmitted by ticks. While an effective ECF vaccine exists, take-up is low in many areas. There are two main reasons for the low adoption: First, technically, the vaccine must be administered to a large number of animals at once (the minimum package size has enough dosage for 40 cattle), and so farmers with only a few cattle cannot access the vaccine individually. Second, the vaccine is expensive for small-scale farmers, costing about $320 for a 40-dose package (straw). We conduct a randomized controlled trial with 210 subunits (milk collection routes) within 39 dairy cooperatives in Kenya to evaluate the effect of a demand aggregation intervention (in which farmers are encouraged to vaccinate together) cross-cut with a “checkoff system” intervention (in which a percentage of milk sales is set aside at milk cooperatives to be allocated for vaccine purchase) on the adoption of ECF vaccine.
+	</div>	
+	</details>
+
+	Presented: [[2021 SPIA Webinar Series]](https://cas.cgiar.org/spia/events/2021-spia-webinar-series)
+
+
+
 - "Creating a Market for High-Quality Cassava Cuttings: The Role of Quality Certification and Demand Stimulation" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Fieldwork Ongoing_**
+**_Baseline Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
@@ -50,7 +65,7 @@ author_profile: true
 
 
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Fieldwork Ongoing_**
+**_Endline Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">  
@@ -63,7 +78,7 @@ author_profile: true
 
 
 - "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Fieldwork Ongoing_**
+**_Pilot Complete_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
@@ -74,17 +89,6 @@ author_profile: true
 	[[ATAI Project Overview]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
 
 
-- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
-**_Fieldwork Ongoing_**
-	<details>
-	  <summary>Abstract</summary>
-	<div align="justify">		  
-	  East Coast Fever (ECF) is a deadly cattle disease transmitted by ticks. While an effective ECF vaccine exists, take-up is low in many areas. There are two main reasons for the low adoption: First, technically, the vaccine must be administered to a large number of animals at once (the minimum package size has enough dosage for 40 cattle), and so farmers with only a few cattle cannot access the vaccine individually. Second, the vaccine is expensive for small-scale farmers, costing about $320 for a 40-dose package (straw). We conduct a randomized controlled trial with 210 subunits (milk collection routes) within 39 dairy cooperatives in Kenya to evaluate the effect of a demand aggregation intervention (in which farmers are encouraged to vaccinate together) cross-cut with a “checkoff system” intervention (in which a percentage of milk sales is set aside at milk cooperatives to be allocated for vaccine purchase) on the adoption of ECF vaccine.
-	</div>	
-	</details>
-
-	Presented: [[2021 SPIA Webinar Series]](https://cas.cgiar.org/spia/events/2021-spia-webinar-series)
-	
 
 - "Geography of Aid in Africa" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))
 	<details>
