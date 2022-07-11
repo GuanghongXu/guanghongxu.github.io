@@ -6,7 +6,10 @@ author_profile: true
 
 <h2> University of California, Santa Cruz </h2>
 
-I received the UCSC Economics Department Award for Excellence in Teaching with an average rating of 5.0/5.0 from instructors and an average rating of 4.8/5.0 from students.
+I received the UCSC Economics Department <p style="text-decoration: underline;">Award for Excellence in Teaching</p> with an average rating of 5.0/5.0 from instructors and an average rating of 4.8/5.0 from students.
+
+
+
 
 ### ECON 136: Business Strategy
 - Fall 2020 (Robert Brian Baden)
