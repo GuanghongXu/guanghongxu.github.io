@@ -23,7 +23,7 @@ I am an Economics Ph.D. Candidate at the [Department of Economics](https://econo
 * Field of interest: 
 	* Development Economics: 
 		* Quality Upgrading
-		* Market Access
+		* Value Chain
 		* Technology Adoption
 		* Financial Inclusion
 	* Applied Econometrics
