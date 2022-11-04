@@ -39,6 +39,6 @@ I am an Economics Ph.D. Candidate at the [Department of Economics](https://econo
      <div style="flex:1;padding-left:10px;">
 				<img src="/images/Kenyamilk.jpg" alt="ke" style="width:85%">
 				<figcaption>Joe, nephew of Samuel, a Kenyan dairy entrepreneur </figcaption>
-				<figcaption>P.C.: ILRI/G.Smith</figcaption>
+				<figcaption>Photo Credit: ILRI/G.Smith</figcaption>
      </div>
 </div>
