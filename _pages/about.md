@@ -31,8 +31,11 @@ I am an Economics Ph.D. Candidate at the [Department of Economics](https://econo
 * [Curriculum Vitae](/files/CV_GuanghongXu.pdf)
 
 
-![alt-text-1](/images/tz2.jpeg "title-1") ![alt-text-2](/images/Kenyamilk.jpg "title-2")
+<p align="center" width="100%">
+    <img width="50%" src="/images/tz2.jpeg">
+    <img width="50%" src="/images/Kenyamilk.jpg">
+</p>
 
 {% include image.html url="/images/tz2.jpeg" description="Matanzi village, Mkuranga, Tanzania" %}
 
-{% include image.html url="/images/Kenyamilk.jpg" description="Joe, nephew of Samuel, a young dairy entrepreneur near Nairobi in Kenya." %}
+{% include image.html url="/images/Kenyamilk.jpg" description="Joe, nephew of Samuel, a young dairy entrepreneur near Nairobi in Kenya. Photo credit: ILRI/Georgina Smith" %}
