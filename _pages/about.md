@@ -32,20 +32,11 @@ I am an Economics Ph.D. Candidate at the [Department of Economics](https://econo
 
 <div class="row">
   <div class="column">
-    <img src="/images/tz2.jpeg" alt="Snow" style="width:50%">
+    <img src="/images/tz2.jpeg" alt="tz" style="width:40%">
     <figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
   </div>
   <div class="column">
-    <img src="/images/Kenyamilk.jpg" alt="Forest" style="width:50%">
-    <figcaption>Joe, nephew of Samuel, a young dairy entrepreneur near Nairobi in Kenya. Photo credit: ILRI/G.Smith</figcaption>
+    <img src="/images/Kenyamilk.jpg" alt="ke" style="width:40%">
+    <figcaption>Joe, nephew of Samuel, a young dairy entrepreneur near Nairobi in Kenya. \\ Photo credit: ILRI/G.Smith</figcaption>
   </div>
 </div>
-
-<p align="center" width="100%">
-    <img width="50%" src="/images/tz2.jpeg">
-    <img width="50%" src="/images/Kenyamilk.jpg">
-</p>
-
-{% include image.html url="/images/tz2.jpeg" description="Matanzi village, Mkuranga, Tanzania" %}
-
-{% include image.html url="/images/Kenyamilk.jpg" description="Joe, nephew of Samuel, a young dairy entrepreneur near Nairobi in Kenya. Photo credit: ILRI/G.Smith" %}
