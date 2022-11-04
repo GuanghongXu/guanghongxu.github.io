@@ -12,6 +12,7 @@ redirect_from:
 
 
 
+[How to pronounce Guanghong?](https://www.howtopronounce.com/guang-hong)
 
 
 Welcome to my website! 
