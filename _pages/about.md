@@ -38,7 +38,7 @@ I am an Economics Ph.D. Candidate at the [Department of Economics](https://econo
 				<figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
      </div>
      <div style="flex:1;padding-left:10px;">
-				<img src="/images/Kenyamilk.jpg" alt="ke" style="width:85%">
+				<img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:85%">
 				<figcaption>Joe, nephew of Samuel, a Kenyan dairy entrepreneur </figcaption>
 				<figcaption>Photo Credit: ILRI/G.Smith</figcaption>
      </div>
