@@ -53,8 +53,8 @@ author_profile: true
 
 
 
-- "Creating a Market for High-Quality Cassava Cuttings: The Role of Quality Certification and Demand Stimulation" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Baseline Ongoing_**
+- "Creating a Market for High-Quality Cassava Cuttings: The Role of Quality Certification and Demand Stimulation" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+**_Intervention Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
