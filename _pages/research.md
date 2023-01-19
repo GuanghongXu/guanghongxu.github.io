@@ -62,7 +62,7 @@ author_profile: true
 	</div>	
 	</details>
 
-	[[ATAI]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
+	[[ATAI Project Overview]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
 
 
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
@@ -74,7 +74,7 @@ author_profile: true
 	</div>	
 	</details>
 
-	[[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
+	[[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI Project Overview]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL Project Overview]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
 
 
 
@@ -87,7 +87,7 @@ author_profile: true
 	</div>	
 	</details>
 
-	[[ATAI]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
+	[[ATAI Project Overview]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
 
 
 
