@@ -16,7 +16,7 @@ redirect_from:
 
 Welcome to my website! 
 
-I am an Economics Ph.D. Candidate at the [Department of Economics](https://economics.ucsc.edu/), [University of California, Santa Cruz (UCSC)](https://www.ucsc.edu/), advised by Professor [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/). My research focuses on the economic development of lower income countries and how technology can help with the global poverty reduction. I have conducted fieldwork in Kenya, Rwanda, and Tanzania. I'm currently a visiting scientist at [International Livestock Research Institute (ILRI)](https://www.ilri.org/) in Nairobi, Kenya.
+I am an Economics Ph.D. Candidate at the [Department of Economics](https://economics.ucsc.edu/), [University of California, Santa Cruz (UCSC)](https://www.ucsc.edu/), advised by Professor [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/). My research focuses on the economic development of lower income countries and how technology can help with global poverty reduction. I have conducted fieldwork in Kenya, Rwanda, and Tanzania. I'm currently a visiting scientist at [International Livestock Research Institute (ILRI)](https://www.ilri.org/) in Nairobi, Kenya.
 
 * Field of interest: 
 	* Development Economics:
