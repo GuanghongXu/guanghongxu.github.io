@@ -29,7 +29,7 @@ author_profile: true
 
 
 
-- “Milky Ways: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and Sophie Nottmeyer)\\
+- “Milky Way: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and Sophie Nottmeyer)\\
 **_Scoping Complete_**
 	<details>
 	  <summary>Abstract</summary>
