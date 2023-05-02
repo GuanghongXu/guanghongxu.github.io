@@ -28,6 +28,17 @@ author_profile: true
 	</details>
 
 
+- "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+**_Intervention Ongoing_**
+	<details>
+	  <summary>Abstract</summary>
+	<div align="justify">	  
+	Many farmers in rural areas of developing countries do not use high quality inputs, either because sellers of quality inputs are located far away or because the quality of inputs cannot be ascertained easily. This not only keeps farmers' income low in the short run, but also has deleterious long-term consequences by preventing the development of value chains which requires reliable access to high quality farm output. In this study, we propose a pilot to establish a market for high-quality cassava planting materials among cooperatives in Rwanda. Working with IITA and RAB, we will randomly provide certification to cassava cooperatives, and supplement this with a demand stimulation intervention in which we will provide a subset of local farmers with information on crop diseases and how they can procure quality cassava planting material from certified cooperatives. We will measure impacts on crop diseases, profits and yields of cooperatives, as well as cassava planting and sourcing decisions of local farmers.
+	</div>	
+	</details>
+
+	[[ATAI Project Overview]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
+
 
 - “Milky Way: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and Sophie Nottmeyer)\\
 **_Scoping Complete_**
@@ -37,7 +48,6 @@ author_profile: true
 
 	</div>	
 	</details>
-
 
 
 - "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
@@ -52,17 +62,6 @@ author_profile: true
 	Presented: [[2021 SPIA Webinar Series]](https://cas.cgiar.org/spia/events/2021-spia-webinar-series)
 
 
-
-- "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Intervention Ongoing_**
-	<details>
-	  <summary>Abstract</summary>
-	<div align="justify">	  
-	Many farmers in rural areas of developing countries do not use high quality inputs, either because sellers of quality inputs are located far away or because the quality of inputs cannot be ascertained easily. This not only keeps farmers' income low in the short run, but also has deleterious long-term consequences by preventing the development of value chains which requires reliable access to high quality farm output. In this study, we propose a pilot to establish a market for high-quality cassava planting materials among cooperatives in Rwanda. Working with IITA and RAB, we will randomly provide certification to cassava cooperatives, and supplement this with a demand stimulation intervention in which we will provide a subset of local farmers with information on crop diseases and how they can procure quality cassava planting material from certified cooperatives. We will measure impacts on crop diseases, profits and yields of cooperatives, as well as cassava planting and sourcing decisions of local farmers.
-	</div>	
-	</details>
-
-	[[ATAI Project Overview]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
 
 
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
