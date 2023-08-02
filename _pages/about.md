@@ -23,7 +23,9 @@ I am an Economics Ph.D. Candidate at the [Department of Economics](https://econo
 		* Quality Upgrading, Value Chain, Technology Adoption, Financial Inclusion
 	* Applied Econometrics
 
-* [Curriculum Vitae](/files/CV_GuanghongXu.pdf)
+* E-mail: guanghongxu[at]ucsc[dot]edu
+
+* CV available soon.
 
 
 <div style="display:flex">
