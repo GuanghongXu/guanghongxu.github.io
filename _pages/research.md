@@ -28,7 +28,7 @@ author_profile: true
 	</details>
 
 
-- "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+- "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Intervention Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
@@ -50,7 +50,7 @@ author_profile: true
 	</details>
 
 
-- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
+- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
 **_Intervention Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
@@ -64,7 +64,7 @@ author_profile: true
 
 
 
-- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Intervention Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
@@ -77,7 +77,7 @@ author_profile: true
 
 
 
-- "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+- "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Pilot Complete_**
 	<details>
 	  <summary>Abstract</summary>
@@ -90,7 +90,7 @@ author_profile: true
 
 
 
-- "Geography of Aid in Africa" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://people.ucsc.edu/~jmrtwo/), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+- "Geography of Aid in Africa" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Draft Available Upon Request_**
 	<details>
 	  <summary>Abstract</summary>
