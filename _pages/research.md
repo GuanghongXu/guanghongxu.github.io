@@ -19,7 +19,7 @@ author_profile: true
 <h2> Work in progress </h2>
 
 - “Farm to Fridge: Digital Traceability and Quality Upgrading in Kenyan Dairy Value Chain”\\
-**_Pilot Complete_**
+**_Intervention Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
