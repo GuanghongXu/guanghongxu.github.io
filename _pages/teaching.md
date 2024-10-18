@@ -10,7 +10,7 @@ classes: wide
 
 I received the UCSC Economics Department **Award for Excellence in Teaching** with an average rating of 5.0/5.0 from instructors and an average rating of 4.8/5.0 from students.
 
-### ECON 294A: Applied Economics Finance Lab
+### ECON 294A: Applied Economics and Finance Laboratory
 - Fall 2024 (Instructor)
 
 ### ECON 136: Business Strategy

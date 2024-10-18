@@ -16,15 +16,15 @@ My research interests are in Development Economics and Applied Econometrics, wit
 
 E-mail: guanghongxu[at]ucsc[dot]edu
 
-**I am on the 2024/2025 academic job market.**
+**I am on the 2024/2025 Job Market.**
 
 
 <div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
+     <div style="flex:1;padding-left:30px;">
 				<img src="/images/tz2.jpeg" alt="tz" style="width:75%">
 				<figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
      </div>
-     <div style="flex:1;padding-left:10px;">
+     <div style="flex:1;">
 				<img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:75%">
 				<figcaption>Joe, nephew of Samuel, a Kenyan dairy entrepreneur </figcaption>
 				<figcaption>Photo Credit: ILRI/G.Smith</figcaption>
