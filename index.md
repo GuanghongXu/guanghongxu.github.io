@@ -10,9 +10,7 @@ classes: wide
 
 Welcome! 
 
-I am an Economics Ph.D. Candidate at the [Department of Economics](https://economics.ucsc.edu/), [University of California, Santa Cruz (UCSC)](https://www.ucsc.edu/), advised by Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home). My research focuses on the economic development of lower income countries and how technology can help with global poverty reduction. I have conducted fieldwork in Kenya, Rwanda, and Tanzania. 
-
-My research interests are in Development Economics and Applied Econometrics, with a focus on quality upgrading, value chains, technology adoption, and financial inclusion.
+I am an Economics Ph.D. Candidate at the [Department of Economics](https://economics.ucsc.edu/), [University of California, Santa Cruz (UCSC)](https://www.ucsc.edu/), advised by Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home). My research interests are in Development Economics and Applied Econometrics, with a focus on the economic development of lower income countries and how technology can help with global poverty reduction. I have conducted fieldwork in Kenya, Rwanda, and Tanzania.
 
 E-mail: guanghongxu[at]ucsc[dot]edu
 
