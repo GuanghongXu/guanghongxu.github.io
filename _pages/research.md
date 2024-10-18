@@ -19,7 +19,7 @@ classes: wide
 
 <h2> Publication </h2>
 
-- (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_jhe.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), Bhavyaa Sharma, Rolly Kapoor, Haedong Rho, and Kinpritma Sangha)\\
+- (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_jhe.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), [Bhavyaa Sharma](https://www.bhavyaasharma.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Haedong Rho](https://www.ha-rho.com/), and Kinpritma Sangha)\\
 **_Journal of Health Economics_ 81: 102575**
 	<details>
 	  <summary>Abstract</summary>
