@@ -19,12 +19,12 @@ E-mail: guanghongxu[at]ucsc[dot]edu
 
 
 <div style="display:flex">
-     <div style="flex:1;padding-left:50px;">
-				<img src="/images/tz2.jpeg" alt="tz" style="width:75%">
+     <div style="flex:1;padding-left:300px;">
+				<img src="/images/tz2.jpeg" alt="tz" style="width:65%">
 				<figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
      </div>
-     <div style="flex:1;padding-right:50px">
-				<img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:65%">
+     <div style="flex:1;">
+				<img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:55%">
 				<figcaption>Joe, nephew of Samuel, a Kenyan dairy entrepreneur</figcaption>
 				<figcaption>Photo Credit: ILRI/G.Smith</figcaption>
      </div>
