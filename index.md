@@ -24,7 +24,7 @@ E-mail: guanghongxu[at]ucsc[dot]edu
      </div>
      <div style="flex:1;padding-left:30px">
 				<img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:75%">
-				<figcaption>Joe(nephew of Samuel, a Kenyan dairy entrepreneur)</figcaption>
+				<figcaption>Joe(nephew of Samuel, a Kenyan dairy trader)</figcaption>
 				<figcaption>Photo Credit: ILRI/G.Smith</figcaption>
      </div>
 </div>
