@@ -19,7 +19,7 @@ E-mail: guanghongxu[at]ucsc[dot]edu
 
 <div style="display:flex">
      <div style="flex:1;padding-left:30px;">
-				<img src="/images/tz2.jpeg" alt="tz" style="width:85%">
+				<img src="/images/tz2.jpeg" alt="tz" style="width:88%">
 				<figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
      </div>
      <div style="flex:1;padding-left:30px">
