@@ -17,7 +17,7 @@ classes: wide
 	</details>
 
 
-<h2> Publications </h2>
+<h2> Publication </h2>
 
 - (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_jhe.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), Bhavyaa Sharma, Rolly Kapoor, Haedong Rho, and Kinpritma Sangha)\\
 **_Journal of Health Economics_ 81: 102575**
@@ -43,7 +43,7 @@ classes: wide
 	[[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI Project Overview]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL Project Overview]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
 
 
-- "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+- "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Athanase Nduwumuremyi, Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Intervention Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
