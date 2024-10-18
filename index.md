@@ -22,7 +22,7 @@ E-mail: guanghongxu[at]ucsc[dot]edu
 				<img src="/images/tz2.jpeg" alt="tz" style="width:70%">
 				<figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
      </div>
-     <div style="flex:1;padding-right:50px;">
+     <div style="flex:1;">
 				<img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:55%">
 				<figcaption>Joe(nephew of Samuel, a Kenyan dairy trader)</figcaption>
 				<figcaption>Photo Credit: ILRI/G.Smith</figcaption>
