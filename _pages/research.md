@@ -1,7 +1,9 @@
 ---
+layout: splash
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: false
+classes: wide
 ---
 
 <h2> Publications </h2>
@@ -98,7 +100,3 @@ author_profile: true
 	  Rural households tend to be poor, and thus in greater need of aid. However, aid programs likely make trade-offs regarding how much aid to give and where to send it based on needs as well as operating costs. As delivering aid to those most in-need is likely the more costly, there are opportunities for misallocation in the provision of aid. We study the spatial distribution of aid and investigate whether there is spatial misallocation in aid provision.
 	</div>
 	</details>
-
-
-
-
