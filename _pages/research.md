@@ -29,7 +29,7 @@ classes: wide
 	</details>
 
 
-<h2> Work in progress </h2>
+<h2> Work in Progress </h2>
 
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Intervention Ongoing_**
@@ -55,7 +55,7 @@ classes: wide
 	[[ATAI Project Overview]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
 
 
-- “Milky Way: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and Sophie Nottmeyer)\\
+- “Milky Way: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and [Sophie Nottmeyer](https://sophistecon.github.io/))\\
 **_Scoping Complete_**
 	<details>
 	  <summary>Abstract</summary>
