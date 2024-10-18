@@ -6,6 +6,18 @@ author_profile: false
 classes: wide
 ---
 
+<h2> Job Market Paper </h2>
+
+- “Farm to Fridge: Digital Traceability and Quality Upgrading in Kenyan Dairy Value Chain”\\
+**_Intervention Ongoing_**
+	<details>
+	  <summary>Abstract</summary>
+	<div align="justify">	  
+
+	</div>	
+	</details>
+
+
 <h2> Publications </h2>
 
 - (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_jhe.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), Bhavyaa Sharma, Rolly Kapoor, Haedong Rho, and Kinpritma Sangha)\\
@@ -19,16 +31,6 @@ classes: wide
 
 
 <h2> Work in progress </h2>
-
-- “Farm to Fridge: Digital Traceability and Quality Upgrading in Kenyan Dairy Value Chain”\\
-**_Intervention Ongoing_**
-	<details>
-	  <summary>Abstract</summary>
-	<div align="justify">	  
-
-	</div>	
-	</details>
-
 
 - "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Intervention Ongoing_**
