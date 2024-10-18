@@ -9,7 +9,6 @@ classes: wide
 <h2> Job Market Paper </h2>
 
 - “Farm to Fridge: Digital Traceability and Quality Upgrading in Kenyan Dairy Value Chain”\\
-**_Intervention Ongoing_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
@@ -31,6 +30,18 @@ classes: wide
 
 
 <h2> Work in progress </h2>
+
+- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+**_Intervention Ongoing_**
+	<details>
+	  <summary>Abstract</summary>
+	<div align="justify">  
+	One way that farmers can improve their income and livelihoods is to transition from subsistence farming to market-driven, commercial agriculture in which output is sold into value chains. However, smallholder farmers typically do not sell their output to buyers in value chains, and one of the reasons is because their output often does not meet the required quality standards. We conduct a randomized controlled trial with 360 smallholder farmer cooperatives to evaluate the effects of providing farmers with access to maize processing services that could improve maize quality on their input decisions.
+	</div>	
+	</details>
+
+	[[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI Project Overview]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL Project Overview]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
+
 
 - "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Intervention Ongoing_**
@@ -64,20 +75,6 @@ classes: wide
 	</details>
 
 	Presented: [[2021 SPIA Webinar Series]](https://cas.cgiar.org/spia/events/2021-spia-webinar-series)
-
-
-
-
-- "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Intervention Ongoing_**
-	<details>
-	  <summary>Abstract</summary>
-	<div align="justify">  
-	One way that farmers can improve their income and livelihoods is to transition from subsistence farming to market-driven, commercial agriculture in which output is sold into value chains. However, smallholder farmers typically do not sell their output to buyers in value chains, and one of the reasons is because their output often does not meet the required quality standards. We conduct a randomized controlled trial with 360 smallholder farmer cooperatives to evaluate the effects of providing farmers with access to maize processing services that could improve maize quality on their input decisions.
-	</div>	
-	</details>
-
-	[[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI Project Overview]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL Project Overview]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
 
 
 
