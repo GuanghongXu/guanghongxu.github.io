@@ -16,7 +16,22 @@ E-mail: guanghongxu[at]ucsc[dot]edu
 
 **I am on the 2024/2025 Economics Job Market.**
 
+<div style="clear: both;"></div>
 
+<!-- Images aligned to the right and stacked vertically -->
+<div style="display: flex; flex-direction: column; align-items: flex-end; margin-top: 20px;">
+    <div style="text-align: center; margin-bottom: 20px;">
+        <img src="/images/tz2.jpeg" alt="tz" style="width: 65%;">
+        <figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
+    </div>
+    <div style="text-align: center;">
+        <img src="/images/Kenyamilk_small.jpg" alt="ke" style="width: 55%;">
+        <figcaption>Joe (nephew of Samuel, a Kenyan dairy trader)</figcaption>
+        <figcaption>Photo Credit: ILRI/G.Smith</figcaption>
+    </div>
+</div>
+
+<!--
 <div style="display:flex">
      <div style="flex:1;padding-left:300px;">
 				<img src="/images/tz2.jpeg" alt="tz" style="width:65%">
@@ -28,7 +43,7 @@ E-mail: guanghongxu[at]ucsc[dot]edu
 				<figcaption>Photo Credit: ILRI/G.Smith</figcaption>
      </div>
 </div>
-
+-->
 
 
 
