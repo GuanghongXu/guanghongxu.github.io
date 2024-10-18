@@ -10,25 +10,22 @@ classes: wide
 
 Welcome! 
 
-I am an Economics Ph.D. Candidate at the [Department of Economics](https://economics.ucsc.edu/), [University of California, Santa Cruz (UCSC)](https://www.ucsc.edu/), advised by Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home). My research focuses on the economic development of lower income countries and how technology can help with global poverty reduction. I have conducted fieldwork in Kenya, Rwanda, and Tanzania.
+I am an Economics Ph.D. Candidate at the [Department of Economics](https://economics.ucsc.edu/), [University of California, Santa Cruz (UCSC)](https://www.ucsc.edu/), advised by Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home). My research focuses on the economic development of lower income countries and how technology can help with global poverty reduction. I have conducted fieldwork in Kenya, Rwanda, and Tanzania. 
 
-* Field of interest: 
-	* Development Economics:
-		* Quality Upgrading, Value Chain, Technology Adoption, Financial Inclusion
-	* Applied Econometrics
+My research interests are in Development Economics and Applied Econometrics, with a focus on quality upgrading, value chains, technology adoption, and financial inclusion.
 
-* E-mail: guanghongxu[at]ucsc[dot]edu
+E-mail: guanghongxu[at]ucsc[dot]edu
 
 **I am on the 2024/2025 academic job market.**
 
 
 <div style="display:flex">
      <div style="flex:1;padding-right:10px;">
-				<img src="/images/tz2.jpeg" alt="tz" style="width:115%">
+				<img src="/images/tz2.jpeg" alt="tz" style="width:75%">
 				<figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
      </div>
      <div style="flex:1;padding-left:10px;">
-				<img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:85%">
+				<img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:75%">
 				<figcaption>Joe, nephew of Samuel, a Kenyan dairy entrepreneur </figcaption>
 				<figcaption>Photo Credit: ILRI/G.Smith</figcaption>
      </div>
