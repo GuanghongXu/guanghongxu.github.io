@@ -7,8 +7,8 @@ classes: wide
 ---
 
 <div style="display: flex; margin-top: 20px;">
-  <div style="flex: 1; padding-left: 10px;">
-    <img src="/images/tz2.jpeg" alt="tz" style="width:85%; margin-top: 10px;">
+  <div style="flex: 1; padding-left: 20px;">
+    <img src="/images/tz2.jpeg" alt="tz" style="width:90%; margin-top: 10px;">
     <figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
