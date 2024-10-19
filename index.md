@@ -18,11 +18,10 @@ Email: [guanghongxu@ucsc.edu](mailto:guanghongxu@ucsc.edu)
 
 <div style="margin-left: 340px;">
     <strong>References:</strong><br>
-    Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home)<br>
-    Professor [Alan Spearot](https://sites.google.com/view/acspearot/home)<br>
-    Professor [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)
+    Professor <a href="https://sites.google.com/view/jmrtwo/home" target="_blank">Jonathan Robinson</a><br>
+    Professor <a href="https://sites.google.com/view/acspearot/home" target="_blank">Alan Spearot</a><br>
+    Professor <a href="https://people.ucsc.edu/~azshenoy/" target="_blank">Ajay Shenoy</a>
 </div>
-
 
 
 
