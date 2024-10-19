@@ -16,11 +16,15 @@ Email: [guanghongxu@ucsc.edu](mailto:guanghongxu@ucsc.edu)
 
 **I am on the 2024/2025 Economics Job Market.**
 
+<div style="margin-left: 340px;">
+    <strong>References:</strong><br>
+    Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home)<br>
+    Professor [Alan Spearot](https://sites.google.com/view/acspearot/home)<br>
+    Professor [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)
+</div>
 
-References: \\
-Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home)\\
-Professor [Alan Spearot](https://sites.google.com/view/acspearot/home) \\
-Professor [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/)
+
+
 
 
 
