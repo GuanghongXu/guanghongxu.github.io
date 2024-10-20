@@ -10,8 +10,12 @@ classes: wide
 
 I received the UCSC Economics Department **Award for Excellence in Teaching** with an average rating of 5.0/5.0 from instructors and an average rating of 4.8/5.0 from students.
 
+<h3> Graduate Course </h3>
+
 ### ECON 294A: Applied Economics and Finance Laboratory
 - Fall 2024 (Instructor)
+
+<h3> Undergraduate Courses </h3>
 
 ### ECON 136: Business Strategy
 - Fall 2020 (Robert Brian Baden)
