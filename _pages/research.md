@@ -37,7 +37,7 @@ classes: wide
 	</div>	
 	</details>
 
-	[[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI Project Overview]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL Project Overview]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
+	**_Funding:_** [[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
 
 
 
@@ -52,7 +52,7 @@ classes: wide
 	</div>	
 	</details>
 
-	[[ATAI Project Overview]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
+	**_Funding:_** [[ATAI]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
 
 
 - “Milky Way: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and [Sophie Nottmeyer](https://sophistecon.github.io/))\\
@@ -64,5 +64,5 @@ classes: wide
 	</div>	
 	</details>
 
-[PEDL Project Overview]
+  **_Funding:_** [[PEDL]](https://pedl.cepr.org/)
 
