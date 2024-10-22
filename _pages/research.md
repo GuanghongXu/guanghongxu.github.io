@@ -65,39 +65,4 @@ classes: wide
 	</details>
 
 [PEDL Project Overview]
-<!--
-- "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
-**_Intervention Ongoing_**
-	<details>
-	  <summary>Abstract</summary>
-	<div align="justify">		  
-	  East Coast Fever (ECF) is a deadly cattle disease transmitted by ticks. While an effective ECF vaccine exists, take-up is low in many areas. There are two main reasons for the low adoption: First, technically, the vaccine must be administered to a large number of animals at once (the minimum package size has enough dosage for 40 cattle), and so farmers with only a few cattle cannot access the vaccine individually. Second, the vaccine is expensive for small-scale farmers, costing about $320 for a 40-dose package (straw). We conduct a randomized controlled trial with 210 subunits (milk collection routes) within 39 dairy cooperatives in Kenya to evaluate the effect of a demand aggregation intervention (in which farmers are encouraged to vaccinate together) cross-cut with a “checkoff system” intervention (in which a percentage of milk sales is set aside at milk cooperatives to be allocated for vaccine purchase) on the adoption of ECF vaccine.
-	</div>	
-	</details>
 
-	Presented: [[2021 SPIA Webinar Series]](https://cas.cgiar.org/spia/events/2021-spia-webinar-series)
-
-
-
-- "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Pilot Complete_**
-	<details>
-	  <summary>Abstract</summary>
-	<div align="justify">	  
-	  Like much of Sub-Saharan Africa, a contributing factor to low agricultural productivity in Rwanda is the low usage of modern inputs like chemical fertilizer and improved seeds. A primary cause of low input usage is that low and variable prices for crop sales at harvest-time may make farmers uncertain about the profitability of investing in improved inputs during the planting and growing seasons. We randomly offer a subset of mid-sized cooperatives a guarantee of the price they will receive at harvest time. With the government-led digital SNS database records of input usage in Rwanda, we quantify the effect of higher anticipated output prices at the end of the season on input utilization during the season and in subsequent seasons.
-	</div>	
-	</details>
-
-	[[ATAI Project Overview]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
-
-
-
-- "Geography of Aid in Africa" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Draft Available Upon Request_**
-	<details>
-	  <summary>Abstract</summary>
-	<div align="justify">		  
-	  Rural households tend to be poor, and thus in greater need of aid. However, aid programs likely make trade-offs regarding how much aid to give and where to send it based on needs as well as operating costs. As delivering aid to those most in-need is likely the more costly, there are opportunities for misallocation in the provision of aid. We study the spatial distribution of aid and investigate whether there is spatial misallocation in aid provision.
-	</div>
-	</details>
--->
