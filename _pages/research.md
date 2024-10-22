@@ -17,7 +17,7 @@ classes: wide
 	</details>
 
 
-<h2> Publication </h2>
+<h2> Publication and Working Paper </h2>
 
 - (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_jhe.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), [Bhavyaa Sharma](https://www.bhavyaasharma.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Haedong Rho](https://www.ha-rho.com/), and Kinpritma Sangha)\\
 **_Journal of Health Economics_ 81: 102575**
@@ -28,20 +28,20 @@ classes: wide
 	</div>
 	</details>
 
-
-<h2> Work in Progress </h2>
-
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Intervention Ongoing_**
+**_Draft Coming Soon_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">  
-	One way that farmers can improve their income and livelihoods is to transition from subsistence farming to market-driven, commercial agriculture in which output is sold into value chains. However, smallholder farmers typically do not sell their output to buyers in value chains, and one of the reasons is because their output often does not meet the required quality standards. We conduct a randomized controlled trial with 360 smallholder farmer cooperatives to evaluate the effects of providing farmers with access to maize processing services that could improve maize quality on their input decisions.
+  Lack of access to output markets is a key barrier to productivity growth of agriculture in developing countries, because it reduces the profitability of investment in productivity. We conduct a field experiment with 180 maize-growing cooperatives in rural Rwanda where a treatment group received support from the WFP Farm to Market Alliance to form connections with processors, while a control group farmed as usual. We find that the program immediately increased the probability of selling into the formal output value chain, and dramatically increased revenue by 150%-300%, driven largely by large increases in land under cultivation and input usage.
 	</div>	
 	</details>
 
 	[[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI Project Overview]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL Project Overview]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda)
 
+
+
+<h2> Work in Progress </h2>
 
 - "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Athanase Nduwumuremyi, Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Intervention Ongoing_**
@@ -64,7 +64,8 @@ classes: wide
 	</div>	
 	</details>
 
-
+[PEDL Project Overview]
+<!--
 - "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
 **_Intervention Ongoing_**
 	<details>
@@ -99,3 +100,4 @@ classes: wide
 	  Rural households tend to be poor, and thus in greater need of aid. However, aid programs likely make trade-offs regarding how much aid to give and where to send it based on needs as well as operating costs. As delivering aid to those most in-need is likely the more costly, there are opportunities for misallocation in the provision of aid. We study the spatial distribution of aid and investigate whether there is spatial misallocation in aid provision.
 	</div>
 	</details>
+-->
