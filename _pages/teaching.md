@@ -10,7 +10,7 @@ classes: wide
 
 I received the UCSC Economics Department **Award for Excellence in Teaching** with an average rating of 5.0/5.0 from instructors and an average rating of 4.8/5.0 from students.
 
-<h3> Graduate Course </h3>
+<h3 style="background-color:rgb(0, 28, 107);"> Graduate Course </h3>
 
 ### <u>ECON 294A: Applied Economics and Finance Laboratory</u>
 - Fall 2024 (Instructor)

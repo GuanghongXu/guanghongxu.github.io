@@ -41,7 +41,7 @@ classes: wide
 
 
 
-<h2> Work in Progress </h2>
+<h2> Works in Progress </h2>
 
 - "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Athanase Nduwumuremyi, Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Intervention Ongoing_**
