@@ -56,7 +56,7 @@ classes: wide
 
 
 - “Milky Way: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and [Sophie Nottmeyer](https://sophistecon.github.io/))\\
-**_Scoping Complete_**
+**_Pilot Complete_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
