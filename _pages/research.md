@@ -66,7 +66,7 @@ classes: wide
 
   **_Funding:_** [[PEDL]](https://pedl.cepr.org/)
 
-<h2> Shelved Projects </h2>
+<h2> Older Projects </h2>
 
 - "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
   <details>
