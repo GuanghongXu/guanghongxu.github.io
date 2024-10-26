@@ -76,8 +76,8 @@ classes: wide
   </div> 
   </details>
   
-  **_Funding:_** [[CGIAR SPIA]](https://iaes.cgiar.org/spia)\\
-  **_Presented:_** [[2021 SPIA Webinar Series]](https://cas.cgiar.org/spia/events/2021-spia-webinar-series)
+  **_Funding:_** [[CGIAR SPIA]](https://iaes.cgiar.org/spia/impact-evidence)\\
+  **_Presented:_** [[2021 CGIAR SPIA Webinar]](https://cas.cgiar.org/spia/events/2021-spia-webinar-series)
 
 
 
@@ -89,7 +89,7 @@ classes: wide
   </div> 
   </details>
   
-  **_Funding:_** [[ATAI Project Overview]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
+  **_Funding:_** [[ATAI]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
 
 
 
