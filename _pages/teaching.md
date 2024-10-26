@@ -16,9 +16,11 @@ I received the UCSC Economics Department **Award for Excellence in Teaching** wi
 <h3 style="color:rgb(78, 145, 165);"> Undergraduate Courses </h3>
 ### <u>ECON 136: Business Strategy</u>
 - Fall 2020 (Robert Brian Baden)
+
 ### <u>ECON 2: Introductory Macroeconomics</u>
 - Spring 2020 (Julie H. Gonzalez)
 - Fall 2019 (Ajay M. Shenoy)
 - Winter 2019 (Ajay M. Shenoy)
+
 ### <u>ECON 100A: Intermediate Microeconomics</u>
 - Winter 2020 (Kristian Lopez Vargas)
