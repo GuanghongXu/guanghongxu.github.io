@@ -14,7 +14,7 @@ I am an Economics Ph.D. Candidate at the [University of California, Santa Cruz (
 
 Email: [guanghongxu@ucsc.edu](mailto:guanghongxu@ucsc.edu)
 
-**I am on the Job Market in 2024-2025.**
+**I am on the job market in 2024-2025 and available for interviews.**
 
 <div style="margin-left: 340px;">
     <strong>References:</strong><br>
