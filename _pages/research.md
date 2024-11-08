@@ -8,7 +8,7 @@ classes: wide
 
 <h2> Job Market Paper </h2>
 
-- “Farm to Fridge: Digital Traceability and Quality Upgrading in Kenyan Dairy Value Chain”\\
+- “Farm to Fridge: Digital Traceability and Quality Upgrading in the Kenyan Dairy Value Chain”\\
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
