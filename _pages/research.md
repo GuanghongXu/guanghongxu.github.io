@@ -27,6 +27,8 @@ Disorganized agricultural value chains often prevent the transmission of quality
 
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Draft Coming Soon_**
+**_Funding:_** [[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda), [[CEGA]](https://cega.berkeley.edu/research/the-impact-of-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/)
+	
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">  
@@ -34,7 +36,7 @@ Disorganized agricultural value chains often prevent the transmission of quality
 	</div>	
 	</details>
 
-	**_Funding:_** [[BASIS MRR Innovation Lab]](https://basis.ucdavis.edu/project/value-linking-farmers-maize-value-chains-rwanda), [[ATAI]](https://www.atai-research.org/project/the-value-of-value-chains-an-experiment-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/), [[J-PAL]](https://www.povertyactionlab.org/evaluation/connecting-smallholder-farmers-agricultural-value-chains-rwanda), [[CEGA]](https://cega.berkeley.edu/research/the-impact-of-linking-farmers-cooperatives-with-a-maize-processor-in-rwanda/)
+
 
 
 
@@ -42,6 +44,8 @@ Disorganized agricultural value chains often prevent the transmission of quality
 
 - "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Athanase Nduwumuremyi, Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Currently in the Field_**
+**_Funding:_** [[ATAI]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/), [[CEGA]](https://cega.berkeley.edu/research/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
+	
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
@@ -49,11 +53,13 @@ Disorganized agricultural value chains often prevent the transmission of quality
 	</div>	
 	</details>
 
-	**_Funding:_** [[ATAI]](https://www.atai-research.org/project/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/), [[CEGA]](https://cega.berkeley.edu/research/creating-a-market-for-high-quality-cassava-cuttings-the-role-of-quality-certification-and-demand-stimulation/)
+
 
 
 - “Milky Way: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and [Sophie Nottmeyer](https://sophistecon.github.io/))\\
 **_Currently in the Field_**
+**_Funding:_** [[PEDL]](https://pedl.cepr.org/)
+
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
@@ -61,11 +67,12 @@ In the absence of formal contract enforcement, buyers and sellers in developing 
 	</div>	
 	</details>
 
-  **_Funding:_** [[PEDL]](https://pedl.cepr.org/)
 
 <h2> Older Projects </h2>
 
 - "Demand and Liquidity Coordination to Foster the Adoption for Livestock Vaccinations: An Experiment with Small-Holder Dairy Cooperatives in Kenya" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), James Rao, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), [Alan Spearot](https://people.ucsc.edu/~aspearot/), and Nils Teufel)\\
+**_Funding:_** [[CGIAR SPIA]](https://iaes.cgiar.org/spia/impact-evidence)\\
+**_Presented:_** [[2021 CGIAR SPIA Webinar]](https://iaes.cgiar.org/spia/webinars/webinar-6-designing-cgiar-impact-assessment-studies-solar-irrigation-and-livestock)
   <details>
     <summary>Abstract</summary>
   <div align="justify">    
@@ -73,12 +80,12 @@ In the absence of formal contract enforcement, buyers and sellers in developing 
   </div> 
   </details>
   
-  **_Funding:_** [[CGIAR SPIA]](https://iaes.cgiar.org/spia/impact-evidence)\\
-  **_Presented:_** [[2021 CGIAR SPIA Webinar]](https://iaes.cgiar.org/spia/webinars/webinar-6-designing-cgiar-impact-assessment-studies-solar-irrigation-and-livestock)
+
 
 
 
 - "Quantifying the Effect of Increased Output Prices on Input Usage: An Experiment with Rwanda’s Smart Subsidy System" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
+**_Funding:_** [[ATAI]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
   <details>
     <summary>Abstract</summary>
   <div align="justify">   
@@ -86,7 +93,6 @@ In the absence of formal contract enforcement, buyers and sellers in developing 
   </div> 
   </details>
   
-  **_Funding:_** [[ATAI]](https://www.atai-research.org/project/quantifying-the-effect-of-increased-output-prices-on-input-usage-an-experiment-with-rwandas-smart-subsidy-system/)
 
 
 
