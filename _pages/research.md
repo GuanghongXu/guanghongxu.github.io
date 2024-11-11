@@ -10,7 +10,7 @@ classes: wide
 
 - [“Farm to Fridge: Digital Traceability and Quality Upgrading in the Kenyan Dairy Value Chain”](https://guanghongxu.github.io/)\\
 **Abstract**
-	<div align="justify" style="font-size: 13px;">	  
+	<div align="justify" style="font-size: 14px;">	  
 Disorganized agricultural value chains often prevent the transmission of quality incentives to upstream farmers, especially when quality is costly to observe at the farm gate. This study develops digital traceability systems for Kenyan dairy cooperatives and introduces an innovative quality monitoring method, using Bayesian statistical models to infer individual milk quality from pooled samples and reduce testing costs. I reveal randomly selected farmers' milk quality either by the model or by random tests to both cooperatives and farmers. I find that model group farmers reduce added water by a significant 21.9% compared to the control group, while random test group farmers show an insignificant 12.6% reduction. Additionally, treated farmers who consistently deliver high-quality milk get higher credit limits from the cooperative and use more credit for animal feed. A back-of-the-envelope calculation suggests that the model offers cost-effective quality improvement, making it a promising tool for continuous quality monitoring and scalable implementation.
 	</div>	
 
