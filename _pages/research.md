@@ -12,7 +12,7 @@ classes: wide
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
-
+Disorganized agricultural value chains often prevent the transmission of quality incentives to upstream farmers, especially when quality is costly to observe at the farm gate. This study develops digital traceability systems for Kenyan dairy cooperatives and introduces an innovative quality monitoring method, using Bayesian statistical models to infer individual milk quality from pooled samples and reduce testing costs. I reveal randomly selected farmers' milk quality either by the model or by random tests to both cooperatives and farmers. I find that model group farmers reduce added water by a significant 21.9\% compared to the control group, while random test group farmers show an insignificant 12.6\% reduction. Additionally, treated farmers who consistently deliver high-quality milk get higher credit limits from the cooperative and use more credit for animal feed. A back-of-the-envelope calculation suggests that the model offers cost-effective quality improvement, making it a promising tool for continuous quality monitoring and scalable implementation.
 	</div>	
 	</details>
 
@@ -60,7 +60,7 @@ classes: wide
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
-
+In the absence of formal contract enforcement, buyers and sellers in developing countries often rely on informal agreements to support repeated trade. This project investigates the existence and evolution of relational contracts between farmers and informal traders in the Kenyan dairy sector. We subsidize half of the traders’ milk collection in randomly selected villages during the wet season, when milk supply is abundant, and competition is lower. This allows us to study whether traders build new relationships and how farmers respond to the temporary presence of the new traders. Through GPS tracking and weekly surveys, the project collects data on trader mobility, sourcing decisions, and farmer-trader interactions. We consider both farmers’ and traders’ perspectives and look at different mechanisms to explain under what conditions traders may or may not develop relationships.
 	</div>	
 	</details>
 
