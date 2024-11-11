@@ -44,7 +44,7 @@ Disorganized agricultural value chains often prevent the transmission of quality
 <h2> Selected Works in Progress </h2>
 
 - "Green Shoots: Seeding a Market for Certified Cassava Cuttings among Cooperatives in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), Athanase Nduwumuremyi, Youngwoo Song, and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
-**_Intervention Ongoing_**
+**_Currently in the Field_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
@@ -56,7 +56,7 @@ Disorganized agricultural value chains often prevent the transmission of quality
 
 
 - “Milky Way: Market Structure and Behaviour of Informal Traders in Kenyan Dairy Industry” (with Martin Nandelenga and [Sophie Nottmeyer](https://sophistecon.github.io/))\\
-**_Pilot Complete_**
+**_Currently in the Field_**
 	<details>
 	  <summary>Abstract</summary>
 	<div align="justify">	  
