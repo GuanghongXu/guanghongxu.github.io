@@ -33,7 +33,7 @@ I received the UCSC Economics Department **Award for Excellence in Teaching** wi
 ### <u>Financial Engineering</u>
 - Spring 2017 (Lawrence A. Leger, Loughborough University, UK)
 
-### <u>Financial Engineering</u>
+### <u>Financial Econometrics</u>
 - Spring 2016 (Gregor Kastner, University of Klagenfurt, Austria)
 
 ### <u>Probability Theory and Mathematical Statistics</u>
