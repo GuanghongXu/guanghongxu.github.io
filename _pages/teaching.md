@@ -24,3 +24,24 @@ I received the UCSC Economics Department **Award for Excellence in Teaching** wi
 
 ### <u>ECON 100A: Intermediate Microeconomics</u>
 - Winter 2020 (Kristian Lopez Vargas)
+
+<h2> Jiangxi University of Finance and Economics </h2>
+
+### <u>Equity Securities Valuation and Investment Analysis</u>
+- Spring 2017 (Instructor)
+
+### <u>Financial Engineering</u>
+- Spring 2017 (Lawrence A. Leger, Loughborough University, UK)
+
+### <u>Financial Engineering</u>
+- Spring 2016 (Gregor Kastner, University of Klagenfurt, Austria)
+
+### <u>Probability Theory and Mathematical Statistics</u>
+- Spring 2016 (Jie Li)
+
+### <u>Linear Algebra</u>
+- Fall 2015 (Changqi Tao)
+
+### <u>Financial Econometrics</u>
+- Fall 2015 (Randall R. Rojas, University of California, Los Angeles, USA)
+
