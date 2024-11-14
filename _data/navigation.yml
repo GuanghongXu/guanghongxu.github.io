@@ -15,6 +15,10 @@
   main:
   #- title: "Home"
   #  url: /
+
+  - title: "CV"
+    url: /files/Xu_CV.pdf
+
   - title: "Research"
     url: /research/ 
 
@@ -24,8 +28,7 @@
   - title: "Field"
     url: /field/
 
-  # - title: "CV"
-  #  url: /assets/cv/CV_GuanghongXu.pdf
+
 
   #- title: "About"
   #url: /about/

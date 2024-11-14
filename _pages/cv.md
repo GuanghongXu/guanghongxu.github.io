@@ -6,4 +6,4 @@ author_profile: false
 classes: wide
 ---
 
-[cv](/assets/cv/CV_GuanghongXu.pdf).
+[cv](/files/Xu_CV.pdf).
