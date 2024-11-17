@@ -6,32 +6,35 @@ author_profile: false
 classes: wide
 ---
 
+<h2> The Journey is the Reward </h2>
+
+
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/tz2.jpeg" alt="tz" style="width:88.5%; margin-top: 10px;">
-    <figcaption>Matanzi village, Mkuranga, Tanzania</figcaption>
+    <figcaption>Cassava Farmer in Matanzi Village, Mkuranga, Tanzania (January 2021)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/dairy_farm.jpg" alt="dairy_farm" style="width:75%; margin-top: 10px;">
-    <figcaption>Dairy farm</figcaption>
+    <img src="/images/dairy_farm.jpg" alt="dairy_farm" style="width:78%; margin-top: 10px;">
+    <figcaption>Dairy Farmer in Kinangop, Kenya (November 2021)</figcaption>
   </div>
 </div>
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/zimbabwe.jpg" alt="zimbabwe" style="width:88.5%; margin-top: 10px;">
-    <figcaption>Zimbabwean dollar</figcaption>
+    <figcaption>Fifty Billion Zimbabwean Dollars</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/egypt.jpg" alt="egypt" style="width:75%; margin-top: 10px;">
-    <figcaption>Flight to Egypt to fix milk testing machine</figcaption>
+    <img src="/images/egypt.jpg" alt="egypt" style="width:78%; margin-top: 10px;">
+    <figcaption>Urgent Flight to Egypt to Repair the Milk Testing Machine (May 2024)</figcaption>
   </div>
 </div>
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/kinango.jpg" alt="kinango" style="width:88.5%; margin-top: 10px;">
-    <figcaption>Stayed with local family in Kinango, Kenya</figcaption>
+    <figcaption>Spent a night with a local family in Kinango, Kenya, whose electricity relied entirely on solar power and whose kitchen consisted of stones without a roof (August 2024)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:75%; margin-top: 10px;">
@@ -44,11 +47,11 @@ classes: wide
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/bdm.jpg" alt="bdm" style="width:88.5%; margin-top: 10px;">
-    <figcaption>Becker–DeGroot–Marschak WTP with cassava farmers in Rwanda</figcaption>
+    <figcaption>Becker–DeGroot–Marschak (BDM) Willingness-to-Pay Elicitation with Cassava Farmers in Rwanda（October 2022）</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/cassava_train.jpg" alt="cassava_train" style="width:75%; margin-top: 10px;">
-    <figcaption>Cassava cuttings quality training in Rwanda</figcaption>
+    <figcaption>Cassava Cuttings Quality Training in Rwanda (October 2022)</figcaption>
   </div>
 </div>
 
@@ -58,29 +61,29 @@ classes: wide
     <figcaption>Tea farm in Limuru, Kenya</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/gym.jpg" alt="gym" style="width:75%; margin-top: 10px;">
-    <figcaption>Gym where you cannot skip legs in Nairobi slum</figcaption>
+    <img src="/images/gym.jpg" alt="gym" style="width:72%; margin-top: 10px;">
+    <figcaption>Hardcore gym in a Nairobi slum – no skipping leg day here</figcaption>
   </div>
 </div>
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/marathon.jpg" alt="marathon" style="width:88.5%; margin-top: 10px;">
-    <figcaption>1st and 2nd half-marathons in my life in Kenya</figcaption>
+    <img src="/images/marathon.jpg" alt="marathon" style="width:85.5%; margin-top: 10px;">
+    <figcaption>My first and second half-marathons ever in my life were in Kenya (2022) </figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/dieting.jpg" alt="dieting" style="width:75%; margin-top: 10px;">
-    <figcaption>Bulking and dieting</figcaption>
+    <img src="/images/dieting.jpg" alt="dieting" style="width:78%; margin-top: 10px;">
+    <figcaption>Bulking (+9 kg) and cutting (-13 kg)</figcaption>
   </div>
 </div>
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/gameday.jpg" alt="gameday" style="width:88.5%; margin-top: 10px;">
-    <figcaption>1st bodybuilding game in my life in Kenya</figcaption>
+    <img src="/images/gameday.jpg" alt="gameday" style="width:85.5%; margin-top: 10px;">
+    <figcaption>My first bodybuilding game ever in my life were in Kenya (2024)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/gameday2.jpg" alt="gameday2" style="width:75%; margin-top: 10px;">
-    <figcaption>Big smile after the game, no chicken breast anymore</figcaption>
+    <img src="/images/gameday2.jpg" alt="gameday2" style="width:78%; margin-top: 10px;">
+    <figcaption>Big Smiles after the Game - No More Chicken Breast plz (2024)</figcaption>
   </div>
 </div>
