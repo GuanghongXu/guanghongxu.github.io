@@ -27,7 +27,7 @@ classes: wide
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/egypt.jpg" alt="egypt" style="width:90%; margin-top: 10px;">
-    <figcaption>Urgent Flight to Egypt to Repair the Milk Testing Machine (May 2024)</figcaption>
+    <figcaption>Emergency Flight to Egypt for Milk Testing Machine Repairs (May 2024)</figcaption>
   </div>
 </div>
 
