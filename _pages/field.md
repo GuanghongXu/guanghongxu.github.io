@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-<h2> _The Journey is the Reward_ </h2>
+<h2><em>The Journey is the Reward</em></h2>
 
 
 <div style="display: flex; margin-top: 20px;">
