@@ -54,7 +54,7 @@ classes: wide
   </div>
   
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/tea_farm.jpg" alt="tea_farm" style="width:87%; margin-top: 10px;">
+    <img src="/images/tea_farm.jpg" alt="tea_farm" style="width:90%; margin-top: 10px;">
     <figcaption>Tea farm in Limuru, Kenya (December 2023)</figcaption>
   </div>
 </div>
