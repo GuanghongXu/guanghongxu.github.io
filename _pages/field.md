@@ -90,6 +90,6 @@ classes: wide
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/gameday2.jpg" alt="gameday2" style="width:90%; margin-top: 10px;">
-    <figcaption>Big Smiles after the Game - No More Chicken Breast Plz (2024)</figcaption>
+    <figcaption>Big Smiles after the Game - No More Chicken Breast Please (2024)</figcaption>
   </div>
 </div>
