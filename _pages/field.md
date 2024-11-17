@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-<h2><em>The Journey is the Reward</em></h2>
+<h2 style="color:rgb(78, 145, 165);"><em>The Journey is the Reward</em></h2>
 
 
 <div style="display: flex; margin-top: 20px;">
@@ -51,16 +51,19 @@ classes: wide
     <figcaption>Becker–DeGroot–Marschak (BDM) Willingness-to-Pay Elicitation </figcaption>
     <figcaption>with Cassava Farmers in Rwanda（October 2022</figcaption>
   </div>
+  
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/cassava_train.jpg" alt="cassava_train" style="width:75%; margin-top: 10px;">
-    <figcaption>Cassava Cuttings Quality Training in Rwanda (October 2022)</figcaption>
+    <img src="/images/tea_farm.jpg" alt="tea_farm" style="width:87%; margin-top: 10px;">
+    <figcaption>Tea farm in Limuru, Kenya (December 2023)</figcaption>
   </div>
 </div>
 
+
+
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/tea_farm.jpg" alt="tea_farm" style="width:87%; margin-top: 10px;">
-    <figcaption>Tea farm in Limuru, Kenya (December 2023)</figcaption>
+    <img src="/images/cassava_train.jpg" alt="cassava_train" style="width:75%; margin-top: 10px;">
+    <figcaption>Cassava Cuttings Quality Training in Rwanda (October 2022)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/gym.jpg" alt="gym" style="width:72%; margin-top: 10px;">
@@ -70,7 +73,7 @@ classes: wide
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/marathon.jpg" alt="marathon" style="width:83%; margin-top: 10px;">
+    <img src="/images/marathon.jpg" alt="marathon" style="width:80%; margin-top: 10px;">
     <figcaption>My First and Second Half-marathons Ever in My Life Were in Kenya (2022) </figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
@@ -81,7 +84,7 @@ classes: wide
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/gameday.jpg" alt="gameday" style="width:84%; margin-top: 10px;">
+    <img src="/images/gameday.jpg" alt="gameday" style="width:82%; margin-top: 10px;">
     <figcaption>My First Bodybuilding Game Ever in My Life Were in Kenya (2024)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
