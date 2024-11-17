@@ -11,7 +11,7 @@ classes: wide
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/tz2.jpeg" alt="tz" style="width:88.5%; margin-top: 10px;">
+    <img src="/images/tz2.jpeg" alt="tz" style="width:86%; margin-top: 10px;">
     <figcaption>Cassava Farmer in Matanzi Village, Mkuranga, Tanzania (January 2021)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
@@ -34,12 +34,12 @@ classes: wide
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/kinango.jpg" alt="kinango" style="width:88.5%; margin-top: 10px;">
-    <figcaption>Spent a night with a local family in Kinango, Kenya, whose electricity relied only</figcaption>
-    <figcaption>on solar power and whose kitchen consisted of stones without a roof (August 2024)</figcaption>  
+    <figcaption>Spent a Night with A Local Family in Kinango, Kenya, Whose Electricity Relied Only</figcaption>
+    <figcaption>on Solar Power and Whose Kitchen Consisted of Stones without a Roof (August 2024)</figcaption>  
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:75%; margin-top: 10px;">
-    <figcaption>Joe, nephew of Samuel, a Kenyan dairy entrepreneur</figcaption>
+    <figcaption>Joe, Nephew of Samuel, a Kenyan Dairy Entrepreneur</figcaption>
     <figcaption>Photo Credit: ILRI/G.Smith</figcaption>
   </div>
 </div>
