@@ -73,7 +73,7 @@ classes: wide
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/marathon.jpg" alt="marathon" style="width:81; margin-top: 10px;">
+    <img src="/images/marathon.jpg" alt="marathon" style="width:70; margin-top: 10px;">
     <figcaption>My First and Second Half-marathons Ever in My Life Were in Kenya (2022) </figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
