@@ -6,7 +6,7 @@ author_profile: false
 classes: wide
 ---
 
-<h2> The Journey is the Reward </h2>
+<h2> _The Journey is the Reward_ </h2>
 
 
 <div style="display: flex; margin-top: 20px;">
@@ -34,7 +34,8 @@ classes: wide
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/kinango.jpg" alt="kinango" style="width:88.5%; margin-top: 10px;">
-    <figcaption>Spent a night with a local family in Kinango, Kenya, whose electricity relied entirely on solar power and whose kitchen consisted of stones without a roof (August 2024)</figcaption>
+    <figcaption>Spent a night with a local family in Kinango, Kenya, whose electricity relied only</figcaption>
+    <figcaption>on solar power and whose kitchen consisted of stones without a roof (August 2024)</figcaption>  
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:75%; margin-top: 10px;">
@@ -47,7 +48,8 @@ classes: wide
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/bdm.jpg" alt="bdm" style="width:88.5%; margin-top: 10px;">
-    <figcaption>Becker–DeGroot–Marschak (BDM) Willingness-to-Pay Elicitation with Cassava Farmers in Rwanda（October 2022）</figcaption>
+    <figcaption>Becker–DeGroot–Marschak (BDM) Willingness-to-Pay Elicitation </figcaption>
+    <figcaption>with Cassava Farmers in Rwanda（October 2022</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/cassava_train.jpg" alt="cassava_train" style="width:75%; margin-top: 10px;">
@@ -57,33 +59,33 @@ classes: wide
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/tea_farm.jpg" alt="tea_farm" style="width:88.5%; margin-top: 10px;">
-    <figcaption>Tea farm in Limuru, Kenya</figcaption>
+    <img src="/images/tea_farm.jpg" alt="tea_farm" style="width:87%; margin-top: 10px;">
+    <figcaption>Tea farm in Limuru, Kenya (December 2023)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/gym.jpg" alt="gym" style="width:72%; margin-top: 10px;">
-    <figcaption>Hardcore gym in a Nairobi slum – no skipping leg day here</figcaption>
+    <figcaption>Hardcore Gym in a Nairobi slum – No Skipping Leg Day Here</figcaption>
   </div>
 </div>
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/marathon.jpg" alt="marathon" style="width:85.5%; margin-top: 10px;">
-    <figcaption>My first and second half-marathons ever in my life were in Kenya (2022) </figcaption>
+    <img src="/images/marathon.jpg" alt="marathon" style="width:83%; margin-top: 10px;">
+    <figcaption>My First and Second Half-marathons Ever in My Life Were in Kenya (2022) </figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/dieting.jpg" alt="dieting" style="width:78%; margin-top: 10px;">
-    <figcaption>Bulking (+9 kg) and cutting (-13 kg)</figcaption>
+    <img src="/images/dieting.jpg" alt="dieting" style="width:80%; margin-top: 10px;">
+    <figcaption>Bulking (+9 kg) and Cutting (-13 kg) for Bodybuilding Game (2024) </figcaption>
   </div>
 </div>
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/gameday.jpg" alt="gameday" style="width:85.5%; margin-top: 10px;">
-    <figcaption>My first bodybuilding game ever in my life were in Kenya (2024)</figcaption>
+    <img src="/images/gameday.jpg" alt="gameday" style="width:84%; margin-top: 10px;">
+    <figcaption>My First Bodybuilding Game Ever in My Life Were in Kenya (2024)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/gameday2.jpg" alt="gameday2" style="width:78%; margin-top: 10px;">
-    <figcaption>Big Smiles after the Game - No More Chicken Breast plz (2024)</figcaption>
+    <img src="/images/gameday2.jpg" alt="gameday2" style="width:79%; margin-top: 10px;">
+    <figcaption>Big Smiles after the Game - No More Chicken Breast Plz (2024)</figcaption>
   </div>
 </div>
