@@ -15,7 +15,7 @@ classes: wide
     <figcaption>Cassava Farmer in Matanzi Village, Mkuranga, Tanzania (January 2021)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/dairy_farm.jpg" alt="dairy_farm" style="width:79%; margin-top: 10px;">
+    <img src="/images/dairy_farm.jpg" alt="dairy_farm" style="width:84%; margin-top: 10px;">
     <figcaption>Dairy Farmer in Kinangop, Kenya (November 2021)</figcaption>
   </div>
 </div>
