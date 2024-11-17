@@ -34,9 +34,8 @@ classes: wide
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/kinango.jpg" alt="kinango" style="width:90%; margin-top: 10px;">
-    <figcaption>Spent a Night with A Local Family in Kinango, Kenya, Whose Electricity Relied</figcaption>
-    <figcaption>Only on Solar Power and Whose Kitchen Consisted of Stones without a Roof</figcaption>
-    <figcaption>(August 2021)</figcaption>  
+    <figcaption>Overnight Stay with a Local Family in Kinango, Kenya</figcaption>
+    <figcaption>Solar-Powered Home and a Roofless Stone Kitchen (August 2021)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/Kenyamilk_small.jpg" alt="ke" style="width:90%; margin-top: 10px;">
