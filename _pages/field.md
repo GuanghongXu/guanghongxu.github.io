@@ -68,28 +68,28 @@ classes: wide
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/gym.jpg" alt="gym" style="width:90%; margin-top: 10px;">
-    <figcaption>Hardcore Gym in a Nairobi slum – No Skipping Leg Day Here</figcaption>
+    <figcaption>Hardcore Gym in a Nairobi Slum – No Skipping Leg Day Here</figcaption>
   </div>
 </div>
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/marathon.jpg" alt="marathon" style="width:90%; margin-top: 10px;">
-    <figcaption>My First and Second Half-marathons Ever in My Life Were in Kenya (2022) </figcaption>
+    <figcaption>My First Two Half-Marathons Took Place in Kenya (2022) </figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/dieting.jpg" alt="dieting" style="width:90%; margin-top: 10px;">
-    <figcaption>Bulking (+9 kg) and Cutting (-13 kg) for Bodybuilding Game (2024) </figcaption>
+    <figcaption>Bulking (+9 kg) and Cutting (-13 kg) for a Bodybuilding Competition (2024) </figcaption>
   </div>
 </div>
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
     <img src="/images/gameday.jpg" alt="gameday" style="width:90%; margin-top: 10px;">
-    <figcaption>My First Bodybuilding Game Ever in My Life Were in Kenya (2024)</figcaption>
+    <figcaption>My First-Ever Bodybuilding Competition Took Place in Kenya (2024)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/gameday2.jpg" alt="gameday2" style="width:90%; margin-top: 10px;">
-    <figcaption>Big Smiles after the Game - No More Chicken Breast Please (2024)</figcaption>
+    <figcaption>Big Smiles After the Competition - No More Chicken Breast Please (2024)</figcaption>
   </div>
 </div>
