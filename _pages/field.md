@@ -6,16 +6,16 @@ author_profile: false
 classes: wide
 ---
 
-<h2 style="color:rgb(78, 145, 165);"><em>The Journey is the Reward</em></h2>
+<h2 style="color:rgb(78, 145, 165);"><em>"The Journey is the Reward"</em></h2>
 
 
 <div style="display: flex; margin-top: 20px;">
   <div style="flex: 1; padding-left: 20px;">
-    <img src="/images/tz2.jpeg" alt="tz" style="width:86%; margin-top: 10px;">
+    <img src="/images/tz2.jpeg" alt="tz" style="width:84%; margin-top: 10px;">
     <figcaption>Cassava Farmer in Matanzi Village, Mkuranga, Tanzania (January 2021)</figcaption>
   </div>
   <div style="flex: 1; padding-right: 10px;">
-    <img src="/images/dairy_farm.jpg" alt="dairy_farm" style="width:78%; margin-top: 10px;">
+    <img src="/images/dairy_farm.jpg" alt="dairy_farm" style="width:79%; margin-top: 10px;">
     <figcaption>Dairy Farmer in Kinangop, Kenya (November 2021)</figcaption>
   </div>
 </div>
