@@ -67,7 +67,8 @@ classes: wide
   </div>
   <div style="flex: 1; padding-right: 10px;">
     <img src="/images/gym.jpg" alt="gym" style="width:90%; margin-top: 10px;">
-    <figcaption>Hardcore Gym with A poster of Frank Zane in a Nairobi Slum – No Skipping Leg Day Here</figcaption>
+    <figcaption>Hardcore Gym with a poster of Frank Zane in a Nairobi Slum</figcaption>
+    <figcaption> – No Skipping Leg Day Here</figcaption>
   </div>
 </div>
 
