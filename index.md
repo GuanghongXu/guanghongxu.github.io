@@ -10,7 +10,7 @@ classes: wide
 
 Welcome! 
 
-I am an Economics Ph.D. Candidate at the [University of California, Santa Cruz (UCSC)](https://economics.ucsc.edu/), advised by Professor [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home). My research interests lie in Development Economics, Applied Econometrics, and Bayesian Statistics, with a focus on the economic development of lower-income countries and how technology can help reduce global poverty. My work emphasizes quality upgrading, value chains, technology adoption, and financial inclusion. I was a Visiting Scientist and Ph.D. Fellow at the [CGIAR International Livestock Research Institute (ILRI)](https://www.ilri.org/). I have conducted extensive fieldwork in Kenya (36 months), Rwanda (10 months), and Tanzania (1 month).
+I am an Economics Ph.D. Candidate at the [University of California, Santa Cruz (UCSC)](https://economics.ucsc.edu/). My research interests lie in Development Economics, Applied Econometrics, and Bayesian Statistics, with a focus on the economic development of lower-income countries and how technology can help reduce global poverty. My work emphasizes quality upgrading, value chains, technology adoption, and financial inclusion. I was a Visiting Scientist and Ph.D. Fellow at the [CGIAR International Livestock Research Institute (ILRI)](https://www.ilri.org/). I have conducted extensive fieldwork in Kenya (36 months), Rwanda (10 months), and Tanzania (1 month).
 
 Email: [guanghongxu@ucsc.edu](mailto:guanghongxu@ucsc.edu)
 
