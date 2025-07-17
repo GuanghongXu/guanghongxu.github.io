@@ -16,8 +16,8 @@
   #- title: "Home"
   #  url: /
 
-  - title: "CV"
-    url: /files/Xu_CV.pdf
+  #- title: "CV"
+  #  url: /files/Xu_CV.pdf
 
   - title: "Research"
     url: /research/ 
