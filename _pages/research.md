@@ -6,7 +6,12 @@ author_profile: false
 classes: wide
 ---
 
-<h2> Job Market Paper </h2>
+<h2> Publication and Working Paper </h2>
+
+- (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_jhe.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), [Bhavyaa Sharma](https://www.bhavyaasharma.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Haedong Rho](https://www.ha-rho.com/), and Kinpritma Sangha)\\
+**_Journal of Health Economics_ 81: 102575**\\
+<span style="font-size: 0.8em;">**Abstract**\\
+We measure the benefit to society created by preventing COVID-19 deaths through a marginal increase in early social distancing. We exploit county-level rainfall on the last weekend before statewide lockdown in the early phase of the pandemic. After controlling for historical rainfall, temperature, and state fixed-effects, current rainfall is a plausibly exogenous instrument for social distancing. A one percent decrease in the population leaving home on the weekend before lockdown creates an average of 132 dollars of benefit per county resident within 2 weeks. The impacts of earlier distancing compound over time and mainly arise from lowering the risk of a major outbreak, yielding large but unevenly distributed social benefit.</span>
 
 - [“Farm to Fridge: Digital Traceability and Quality Upgrading in the Kenyan Dairy Value Chain”](https://guanghongxu.github.io/files/Xu_Kenya_Milk_Quality.pdf)\\
 <span style="font-size: 0.8em;">**_Funding:_** [[NSF Economics Dissertation Grant]](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2242369&HistoricalAwards=false), [[The Weiss Fund]](https://weissfund.uchicago.edu/), [[MIT/J-PAL DAISI]](https://www.atai-research.org/project/digital-traceability-and-quality-upgrading-in-kenyan-dairy-value-chain/), [[PEDL (CEPR/FCDO Initiative)]](https://pedl.cepr.org/), [[CGIAR SPIA]](https://iaes.cgiar.org/spia), [[SurveyCTO]](https://www.surveycto.com/blog/2022-surveycto-primary-data-collection-research-grant-awardees/), [[UCSC Blum Center]](https://economicjustice.ucsc.edu/about/about-the-center-for-economic-justice-and-action/), [[UCSC Economics Dissertation Grant]](https://economics.ucsc.edu/)\\
@@ -14,15 +19,6 @@ classes: wide
 Disorganized agricultural value chains often prevent the transmission of quality incentives to upstream farmers, especially when quality is costly to observe at the farm gate. This study develops digital traceability systems for Kenyan dairy cooperatives and introduces an innovative quality monitoring method, using Bayesian statistical models to infer individual milk quality from pooled samples and reduce testing costs. I reveal randomly selected farmers' milk quality either by the model or by random tests to both cooperatives and farmers. I find that model group farmers reduce added water by a significant 21.9% compared to the control group, while random test group farmers show an insignificant 12.6% reduction. Additionally, treated farmers who consistently deliver high-quality milk get higher credit limits from the cooperative and use more credit for animal feed. A back-of-the-envelope calculation suggests that the model offers cost-effective quality improvement, making it a promising tool for continuous quality monitoring and scalable implementation.\\
 **_Presentations:_** [[2025 Midwest International Economic Development Conference]](https://publish.illinois.edu/mwiedc-uiuc/program/), [[2024-2025 GRIPS Development Economics Seminar]](https://sites.google.com/view/gripsseminar/), [[2024 CGIAR SPIA Webinar Series]](https://iaes.cgiar.org/spia/webinars), [[2024 SurveyCTO Webinar Series]](https://www.surveycto.com/videos/agriculture-productivity-research-webinar/), [[2024 CGIAR ILRI PIL Program Workshop in Nairobi, Kenya]](https://livestock.cgiar.org/tag/pil.html), [[2022 PEDL Young Scholars Workshop at NYU Abu Dhabi]](https://pedl.cepr.org/content/young-scholars-matchmaking-workshop-0)\\
 **_Covered:_** [[World Bank Development Impact Blog]](https://blogs.worldbank.org/en/impactevaluations/let-the-cream-rise-to-the-top--digital-traceability-and-quality-?CID=WBW_AL_BlogNotification_EN_EXT)</span>
-
-
-
-<h2> Publication and Working Paper </h2>
-
-- (2022) ["God is in the Rain: The Impact of Rainfall-Induced Early Social Distancing on COVID-19 Outbreaks"](/files/covid_jhe.pdf) (with [Ajay Shenoy](https://people.ucsc.edu/~azshenoy/), [Bhavyaa Sharma](https://www.bhavyaasharma.com/), [Rolly Kapoor](https://rollykapoor.github.io/), [Haedong Rho](https://www.ha-rho.com/), and Kinpritma Sangha)\\
-**_Journal of Health Economics_ 81: 102575**\\
-<span style="font-size: 0.8em;">**Abstract**\\
-We measure the benefit to society created by preventing COVID-19 deaths through a marginal increase in early social distancing. We exploit county-level rainfall on the last weekend before statewide lockdown in the early phase of the pandemic. After controlling for historical rainfall, temperature, and state fixed-effects, current rainfall is a plausibly exogenous instrument for social distancing. A one percent decrease in the population leaving home on the weekend before lockdown creates an average of 132 dollars of benefit per county resident within 2 weeks. The impacts of earlier distancing compound over time and mainly arise from lowering the risk of a major outbreak, yielding large but unevenly distributed social benefit.</span>
 
 - "The Value of Value Chains: An Experiment Linking Farmers’ Cooperatives with a Maize Processor in Rwanda" (with [Shilpa Aggarwal](https://aggarwalshilpa.wixsite.com/home), [Susan Godlonton](https://sites.williams.edu/sg5/), Ammar Kawash, [Jonathan Robinson](https://sites.google.com/view/jmrtwo/home), and [Alan Spearot](https://people.ucsc.edu/~aspearot/))\\
 **_Draft Coming Soon_** [[AEA RCT Registry]](https://www.socialscienceregistry.org/trials/13137)\\
