@@ -12,7 +12,7 @@ Welcome!
 
 I’m an Economist at [Amazon](https://www.amazon.science/author/guanghong-xu), with a Ph.D. in Economics from the University of California, Santa Cruz.
 
-During my Ph.D., my research focused on Development Economics, Applied Econometrics, and Bayesian Statistics, with an emphasis on the economic development of lower-income countries. My work emphasizes quality upgrading, value chains, technology adoption, and financial inclusion. 
+My academic research focuses on Development Economics, Applied Econometrics, and Bayesian Statistics, with an emphasis on the economic development of lower-income countries. My work emphasizes quality upgrading, value chains, technology adoption, and financial inclusion. 
 
 I was also a Visiting Economist at the [CGIAR International Livestock Research Institute (ILRI)](https://www.ilri.org/). I lived in East Africa for four years, designing and directing randomized field experiments (RCTs) across Kenya (36 months), Rwanda (10 months), and Tanzania (1 month).
 
