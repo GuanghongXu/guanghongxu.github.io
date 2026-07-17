@@ -22,8 +22,8 @@
   - title: "Research"
     url: /research/ 
 
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
 
   - title: "Field"
     url: /field/
