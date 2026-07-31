@@ -10,7 +10,7 @@ classes: wide
 
 Welcome! 
 
-I’m an Economist at [Amazon](https://www.amazon.science/author/guanghong-xu), applying causal inference techniques—both experimental and observational—to quantify advertising effectiveness on Amazon and optimize media investment strategies.
+I’m an Economist at [Amazon](https://www.amazon.science/author/guanghong-xu), applying GenAI and causal inference techniques to quantify advertising effectiveness on Amazon and optimize media investment strategies.
 
 Previously, I worked in East Africa for four years, designing and directing randomized field experiments (RCTs) across <b>Kenya</b> (Economist at [CGIAR International Livestock Research Institute (ILRI)](https://www.ilri.org/) for 36 months), <b>Rwanda</b> (Research Associate at [Innovations for Poverty Action (IPA)](https://poverty-action.org/) for 10 months), and <b>Tanzania</b> (1 month).
 
